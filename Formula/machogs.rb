@@ -1,9 +1,9 @@
 class Machogs < Formula
   desc "Find out what is hogging your Mac, in plain English"
   homepage "https://bnishit.github.io/machogs/"
-  url "https://github.com/bnishit/machogs/archive/refs/tags/cli-v1.4.1.tar.gz"
-  version "1.4.1"
-  sha256 "6410a18ae7e82ac52bb5c8011739c0ef8d59c1e3b126afdf262c366c35db7e61"
+  url "https://github.com/bnishit/machogs/archive/refs/tags/v1.4.3.tar.gz"
+  version "1.4.3"
+  sha256 "dc233db73772020e3ddfedd63c4e220ce684c0f72d4f3de6c5c875c565f1ff2a"
   license "MIT"
 
   def install
